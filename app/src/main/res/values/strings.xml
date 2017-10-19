@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <!-- ErrorView -->
+    <string name="error_http">Server Error</string>
+    <string name="error_http_subtitle">There seems to be a problem with the server.</string>
+    <string name="error_network">No connection</string>
+    <string name="error_network_subtitle">There seems to be a problem with your internet.</string>
+
+</resources>
